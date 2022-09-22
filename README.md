@@ -2,7 +2,8 @@
 This is the place to showcase my data analysis skills using Python.
 ## Content
 * Power BI
-  * [💼HR Dashboard](https://github.com/panpapap/Python_portfolio/tree/main/HR_Dashboard)
+  * [🤝HR Dashboard](https://github.com/panpapap/Python_portfolio/tree/main/HR_Dashboard)
+  * [💼Job Market Analysis](https://github.com/panpapap/DA_portfolio/tree/main/Job_market_analysis)
   
 * SQL
   * [🌎Analyzing World population - CIA Factbook](https://github.com/panpapap/Python_portfolio/blob/main/SQL_Project_World_Population.ipynb)
